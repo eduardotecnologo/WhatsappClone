@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2024162027",
+    "project_id": "whatsapp-b8295",
+    "storage_bucket": "whatsapp-b8295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2024162027:android:b917b3e867abbef7c7b4ae",
+        "android_client_info": {
+          "package_name": "com.edudeveloper.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2024162027-ik5vmqnctddbhnecld5mluniphm0qdlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBccsQp4X9X1vEphfNfTHynyeWOoT2InQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2024162027-ik5vmqnctddbhnecld5mluniphm0qdlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
