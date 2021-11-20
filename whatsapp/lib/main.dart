@@ -1,14 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
-import 'Home.dart';
+import 'Login.dart';
 
 void main() {
-
-  FirebaseFirestore.instance
-  .collection("usuario")
-  .add({"name": "Eduardo"});
   runApp(MaterialApp(
-    home: Home(),
+    home: Login(),
+    theme: ThemeData(
+      primaryColor: Color(0xff075E54),
+      colorScheme: ColorScheme.fromSwatch().copyWith(secondary: Color(0xff25D366))
+    ),
     debugShowCheckedModeBanner: false,
   ));
 }

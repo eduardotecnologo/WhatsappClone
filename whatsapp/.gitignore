@@ -9,6 +9,8 @@
 .history
 .svn/
 
+google-services.json
+Oldgoogle-services.json
 # IntelliJ related
 *.iml
 *.ipr
@@ -30,6 +32,7 @@
 .pub-cache/
 .pub/
 /build/
+WfTg669
 
 # Web related
 lib/generated_plugin_registrant.dart
@@ -44,3 +47,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/android/key.properties
